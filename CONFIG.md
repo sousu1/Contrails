@@ -44,7 +44,7 @@ MSSPアート Contrails版
 >
 > Set to `true` if you have higher limits via a paid Cloudflare plan.
 
-true
+false
 
 # avatar
 
