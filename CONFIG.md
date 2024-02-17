@@ -16,7 +16,7 @@ mssp-art
 > This is the description of the feed.
 
 「MSSPアート」の単語が含まれるポストを拾います　Contrails版　
-こっちのが動作が安定したらskyfeed版は消します
+動作確認中
 
 # searchTerms
 
