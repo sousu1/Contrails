@@ -9,7 +9,7 @@ mssp-art
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-MSSPアート Contrails版
+不調
 
 # description
 
